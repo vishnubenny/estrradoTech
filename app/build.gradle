@@ -60,4 +60,5 @@ dependencies {
     implementation "com.squareup.okhttp3:okhttp:$retrofit_version"
     implementation "com.squareup.okhttp3:logging-interceptor:$logging_interceptor"
     implementation 'com.github.bumptech.glide:glide:4.11.0'
+    implementation 'com.ss.bannerslider:bannerslider:2.0.0'
 }
